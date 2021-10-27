@@ -1,5 +1,5 @@
 {
-  "name": "@aleksey28/error-stack-parser",
+  "name": "error-stack-parser-test",
   "description": "Extract meaning from JS Errors",
   "maintainers": [
     "Eric Wendelin <me@eriwen.com> (https://www.eriwen.com)",
